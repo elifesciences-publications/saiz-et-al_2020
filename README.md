@@ -1,3 +1,8 @@
+This code is associated with the paper from Saiz et al., "Growth-factor-mediated coupling
+between lineage size and cell fate choice
+underlies robustness of mammalian
+development". eLife, 2020. http://doi.org/10.7554/eLife.56079
+
 # Saiz *et al*. (2020) 
 
 This repository contains the data and code associated with the article by Saiz *et al.*, *Growth factor-mediated coupling between lineage size and cell fate choice underlies robustness of mammalian development*, currently deposited in [bioRXiv](https://www.biorxiv.org/content/10.1101/2019.12.27.889006v2).
